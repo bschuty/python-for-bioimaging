@@ -1,2 +1,2 @@
-# python-for-bioimaging
-This is a short introduction Python cuorse for bioimaging 
+# Introductory Python cuorse for bioimaging
+This is a short Python cuorse for bioimaging
